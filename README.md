@@ -16,3 +16,8 @@ Moverme entre ramas:
 git checkout Santiago
 
 git merge master
+# Prueba de Usuario2
+
+Estamos modificando desde el Usuario2
+
+# Bienvenidos
