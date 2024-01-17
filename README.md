@@ -6,5 +6,7 @@ git branch -a
 Crear una nueva rama
 git checkout -b Santiago
 
-git merge master
+Moverme entre ramas:
+git checkout Santiago
 
+git merge master
