@@ -8,6 +8,7 @@ git branch -a
 
 Crear una nueva rama
 git checkout -b Santiago
+git push --set-upstream origin Usuario2
 
 git config --global user.email "Rama Santiago"
 git config --global user.name "rama.santiago123@hotmail.com"
