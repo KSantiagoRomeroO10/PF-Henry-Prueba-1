@@ -9,6 +9,9 @@ git branch -a
 Crear una nueva rama
 git checkout -b Santiago
 
+git config --global user.email "Rama Santiago"
+git config --global user.name "rama.santiago123@hotmail.com"
+
 Moverme entre ramas:
 git checkout Santiago
 
