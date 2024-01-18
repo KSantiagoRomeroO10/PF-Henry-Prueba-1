@@ -26,7 +26,3 @@ Estamos modificando nuevamente desde el Usuario2 para aprender a manejar git con
 # Bienvenidos
 
 Bienvenidos a mi espacio de trabajo que es Usuario2
-
-# Buenas, creo que ahora estoy en otra rama- Lag
-
-Espero que si
